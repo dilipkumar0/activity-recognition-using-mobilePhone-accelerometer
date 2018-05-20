@@ -1,6 +1,8 @@
-# activity-recognition-using-mobilePhone-accelerometer
+# Activity Recognition using MobilePhone Accelerometer
 
-ABSTRACT:
+-------------
+Abstract:
+-
 The present day technology trends have led to remake mobile phone gadgets as a technical advancement which eases
 the life of a person. The mobile phones have grown more sophisticated as they are embedded with numerous sensors like
 GPS sensor, direction sensor i.e., the magnetic compasses, audio sensor i.e., the microphone, light sensor, vision sensor i.e.,
@@ -13,7 +15,8 @@ our set of activities and studied how to combine all into an optimal set of clas
 classification model we reach an overall accuracy rate of 70%. 
 
 
-CONCLUSION:
+Conclusion:
+-
 A recognition accuracy of up to 70% on various everyday activities using a single triaxial accelerometer was
 obtained. The data were acquired from multiple human subjects in a real-world scenario where the mobile phone is placed
 inside the pocket. A new set of features was taken into account and different classifiers were used for evaluating recognition
